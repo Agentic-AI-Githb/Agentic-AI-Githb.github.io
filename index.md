@@ -20,7 +20,7 @@ Our goal is to provide the high-authority documentation needed to scale agentic 
 Explore our peer-reviewed research and technical deployment guides:
 
 ###  Core Foundations
-*   **[The Future of Agentic AI](future-of-agentic-ai.htm)**  
+*   **[The Future of Agentic AI](future-of-agentic-ai.md)**  
     *The shift from reactive chatbots to proactive agents. Understand the "Reason-Act" loop.*
 *   **[Advanced Research Strategies](advanced-ai-research-strategies.md)**  
     *Methodologies for sourcing high-gain AI intelligence and synthesizing data.*
